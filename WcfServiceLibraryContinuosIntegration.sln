@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibraryContinuosIntegration", "WcfServiceLibraryContinuosIntegration\WcfServiceLibraryContinuosIntegration.csproj", "{AA819A2C-773F-47AC-9A2C-5A4A47785675}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibraryContinuosIntegrationTests", "WcfServiceLibraryContinuosIntegrationTests\WcfServiceLibraryContinuosIntegrationTests.csproj", "{1731F312-6425-4436-B659-D92BE87AC961}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AA819A2C-773F-47AC-9A2C-5A4A47785675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA819A2C-773F-47AC-9A2C-5A4A47785675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA819A2C-773F-47AC-9A2C-5A4A47785675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1731F312-6425-4436-B659-D92BE87AC961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1731F312-6425-4436-B659-D92BE87AC961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1731F312-6425-4436-B659-D92BE87AC961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1731F312-6425-4436-B659-D92BE87AC961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
