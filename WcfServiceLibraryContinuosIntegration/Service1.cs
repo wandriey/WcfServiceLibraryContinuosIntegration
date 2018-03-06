@@ -12,6 +12,10 @@ namespace WcfServiceLibraryContinuosIntegration
     public class Service1 : IService1
     {
         Person person = new Person();
+        /// <summary>
+        /// Get person name
+        /// </summary>
+        /// <returns></returns>
         public string GetNameSoap()
         {
             return person.GetName();
